@@ -1,2 +1,2 @@
 # streamlit-react-components
-React and D3 components for Streamlit applications
+A library of React components for Streamlit web applications. 
